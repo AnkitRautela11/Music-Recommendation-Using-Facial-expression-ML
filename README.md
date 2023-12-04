@@ -8,7 +8,7 @@ For running the code in Windows or Mac, certain path changes are required.
 
 Please make sure you have the following in your machine...
 
-Note: I have downloaded python using Anaconda.
+Note: I have downloaded PyCharm.
 
 Python version: 3.6.5 (Try to download all python modules)(Important modules: glob, os, numpy, random, argparse, time)
 Opencv version: 3.4.3 (Full opencv module. Fisherface module is must)
